@@ -1,24 +1,23 @@
-# Hi there 👋 I'm Dillon O'Bourke
+# Hi, I'm Dillon O'Bourke
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
 
-🎓 Software Engineering student at Arizona State University (Barrett Honors College)  
-💼 Software Engineering Intern @ State Farm  
-💻 Passionate about building full-stack applications, scalable backend systems, and intuitive user experiences  
-🌱 Currently learning cloud technologies, distributed systems, and software architecture  
+Software Engineering student at Arizona State University (Barrett Honors College)  
+Previous Software Engineering Intern @ State Farm  
+Specialized in backend systems and database management 
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 🗺️ ASU Campus Maps
+### ASU Campus Maps
 Contributed to Arizona State University's official campus navigation app by improving map interactions, UI/UX, and accessibility. Led user testing sessions and collaborated on a 10,000+ line production codebase.
 
 **Tech:** React, TypeScript, JavaScript, Git
 
 ---
 
-### 🌌 SpaceStyler
+### SpaceStyler
 Interactive HTML & CSS learning platform featuring live code previews, guided challenges, progress tracking, and responsive layouts.
 
 **Tech:** HTML, CSS, JavaScript, Bootstrap
@@ -27,7 +26,7 @@ Interactive HTML & CSS learning platform featuring live code previews, guided ch
 
 ---
 
-### ⭐ Star Wars HTTP Server
+### Star Wars HTTP Server
 Built a multithreaded Java HTTP server supporting static and dynamic routes, REST API integration with SWAPI, multimedia assets, and custom request handling.
 
 **Tech:** Java, HTTP, JSON, REST APIs
@@ -36,7 +35,7 @@ Built a multithreaded Java HTTP server supporting static and dynamic routes, RES
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
