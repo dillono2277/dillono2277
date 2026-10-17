@@ -1,6 +1,6 @@
 # Hi, I'm Dillon O'Bourke
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding gif">
+
 
 Software Engineering student at Arizona State University (Barrett Honors College)  
 Previous Software Engineering Intern @ State Farm  
